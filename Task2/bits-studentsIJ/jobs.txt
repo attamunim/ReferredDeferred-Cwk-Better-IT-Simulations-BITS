@@ -1,0 +1,9 @@
+Design,3,10,200
+Hardware,3,20,150
+Software,3,30,100
+Design,9,25,250
+Software,7,15,350
+Hardware,8,35,300
+Hardwate,5,20,400
+Software,5,50,500
+Design,9,18,160
